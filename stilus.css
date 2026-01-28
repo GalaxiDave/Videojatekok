@@ -1,50 +1,51 @@
-body{
-    background-image: url(kepek/dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
-    background-size: cover;
-    color: rgb(255, 255, 255);
-    font-family: Arial, sans-serif;
-    max-width: 1000px;
-    text-align: center;
+body {
+  background-image: url(kepek/dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
+  background-size: cover;
+  color: rgb(255, 255, 255);
+  font-family: Arial, sans-serif;
+  max-width: 1000px;
+  text-align: center;
+  margin: 0 auto;
+  
 }
-img{
-    width: 400px;
-    border: 10px solid rgb(50, 48, 48);
-    border-radius: 15%;
-    padding: 10px;
-    width: 100%;
+img {
+  width: 400px;
+  border: 10px solid rgb(50, 48, 48);
+  border-radius: 15%;
+  padding: 10px;
+  width: 100%;
 }
-a{
-    text-align: center;
-    color: dimgray;
-    text-decoration: none;
-    padding: 10px;
-    border: 10px solid gray;
-    border-radius: 25%;
-    background-color: rgb(50, 48, 48);
+a {
+  text-align: center;
+  color: dimgray;
+  text-decoration: none;
+  padding: 10px;
+  border: 10px solid gray;
+  border-radius: 25%;
+  background-color: rgb(50, 48, 48);
 }
-h1{
-    text-align: center;
-    font-size: 50px;
-    font-style: italic;
-    padding: 20px;
-    letter-spacing: 30px;
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  padding: 20px;
+  letter-spacing: 30px;
 }
-h2{
-    padding: 20px;
-    margin: 10px;
-    background-color: rgb(50, 48, 48);
-    border-radius: 5%;
+h2 {
+  padding: 20px;
+  margin: 10px;
+  background-color: rgb(50, 48, 48);
+  border-radius: 5%;
 }
-p{
-    text-align: justify;
-    font-size: 15px;
-    font-family: Rockwell;
+p {
+  text-align: justify;
+  font-size: 15px;
+  font-family: Rockwell;
 }
-.jatekok{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 10px ;
+.jatekok {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
 }
-@media screen and (max-width:600px) {
-    
+@media screen and (max-width: 600px) {
 }
